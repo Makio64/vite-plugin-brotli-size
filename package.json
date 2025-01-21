@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-brotli-size",
+  "version": "1.0.0",
+  "description": "A Vite plugin to display real file sizes after Brotli compression",
+  "main": "src/index.js",
+  "keywords": [
+    "vite",
+    "plugin",
+    "brotli",
+    "compression",
+    "size"
+  ],
+  "scripts": {
+    "build": "echo 'No build step needed for now'",
+    "publish-package": "npm publish --access public"
+  },
+  "repository": "github:makio64/vite-plugin-brotli-size",
+  "author": "@Makio64 | David Ronai",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
