@@ -2,6 +2,8 @@
 
 A Vite plugin that displays the actual file sizes after building using Brotli compression
 
+<img width="475" alt="Screenshot 2025-01-21 at 17 22 40" src="https://github.com/user-attachments/assets/b0ec058c-241e-49f0-a42c-a8db62eab958" />
+
 ## Installation
 
 use your favorite pnpm / npm / yarn
