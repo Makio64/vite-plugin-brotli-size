@@ -1,7 +1,8 @@
 {
   "name": "vite-plugin-brotli-size",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Vite plugin to display real file sizes after Brotli compression",
+  "type": "module",
   "main": "src/index.js",
   "keywords": [
     "vite",
